@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Layout/Section.module.css"],"names":[],"mappings":"AAAA,wBACE,cACF,CAEA,sBACE,kBAAmB,CACnB,iBACF","file":"6.db79bf87.chunk.css","sourcesContent":[".section {\n  padding: 50px 0;\n}\n\n.title {\n  margin-bottom: 25px;\n  text-align: center;\n}\n"]}
